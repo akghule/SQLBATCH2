@@ -1,0 +1,2 @@
+# SQLBATCH2
+ allsqlquery
